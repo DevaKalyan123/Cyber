@@ -13,10 +13,10 @@
 
 > commands
 
--ls - to view the list of files in side a dirrectory /folder
--After ls you will find the Readme file
--cat - to read the file without opening it.
--cat Readme
+- ls - to view the list of files in side a dirrectory /folder
+- After ls you will find the Readme file
+- cat - to read the file without opening it.
+- cat Readme
 
 password bandit1 - ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
