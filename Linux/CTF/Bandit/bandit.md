@@ -31,7 +31,7 @@ password bandit1 - ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 - pssword bandit1 -  263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 ## Level 2 → Level 3
 >command
--ls
+- ls
 - cat -- "--spaces in this filename--"
 - <img width="678" height="132" alt="image" src="https://github.com/user-attachments/assets/63d48c81-c76c-4597-8e9f-7ed46769ae18" />
 - pssword bandit2 -  MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
@@ -53,8 +53,7 @@ password bandit1 - ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 - file ./*
 - cat ./-file07
 - 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
-- 
--<img width="765" height="390" alt="image" src="https://github.com/user-attachments/assets/2742ad8d-ecf3-456b-b6c0-67ff2d46356d" />
+- <img width="765" height="390" alt="image" src="https://github.com/user-attachments/assets/2742ad8d-ecf3-456b-b6c0-67ff2d46356d" />
 ## Level 5 → Level 6
 >command
 - ls
@@ -68,18 +67,18 @@ password bandit1 - ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 ## Level 6 → Level 7
 >command
--pwd
--find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
--/var/lib/dpkg/info/bandit7.password
--cat /var/lib/dpkg/info/bandit7.password
+- pwd
+- find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
+- /var/lib/dpkg/info/bandit7.password
+- cat /var/lib/dpkg/info/bandit7.password
 - morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 - 
 - <img width="599" height="337" alt="image" src="https://github.com/user-attachments/assets/1f7f85fe-ce3e-40bd-a230-08711c93c725" />
 
 ## Level 7 → Level 8
 >command
--ls
--cat data.txt | grep millionth
+- ls
+- cat data.txt | grep millionth
 - cat data.txt | wc -l
 - dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
  
@@ -104,18 +103,18 @@ password bandit1 - ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 - <img width="424" height="223" alt="image" src="https://github.com/user-attachments/assets/83d29a40-e16a-4fed-8d22-117203de1bf5" />
 
 ## Level 10 → Level 11
--ls
--data.txt
--strings data.txt
+- ls
+- data.txt
+- strings data.txt
 - strings data.txt | grep "="
 - FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 
--<img width="648" height="364" alt="image" src="https://github.com/user-attachments/assets/48e9faeb-9e3f-46c2-b806-c7ecd5dfc7bc" />
+- <img width="648" height="364" alt="image" src="https://github.com/user-attachments/assets/48e9faeb-9e3f-46c2-b806-c7ecd5dfc7bc" />
 
 ## Level 11 → Level 12
--ls
--data.txt
--cat data.txt
+- ls
+- data.txt
+- cat data.txt
 - base64 -d data.txt
 - dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 
@@ -123,10 +122,10 @@ password bandit1 - ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 ## Level 12 → Level 13
 
--ls
--data.txt
--cat data.txt
--cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+- ls
+- data.txt
+- cat data.txt
+- cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 - 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 
 - <img width="595" height="254" alt="image" src="https://github.com/user-attachments/assets/dfbbe646-c995-4fcc-a397-5527a3905c4d" />
